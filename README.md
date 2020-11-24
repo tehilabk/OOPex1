@@ -1,4 +1,4 @@
-## `Object Oriented Programming - firs assiment`
+## `Object Oriented Programming - first assiment`
 ##### **made by:** `Tehila Ben Kalifa`
 
 **about:**
